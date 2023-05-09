@@ -1,4 +1,4 @@
-<h1>Achilles Ebikes</h1>
+<h1 align="center">Achilles Ebikes</h1>
 
 ![AChilles logo logo](images/logo.png)
 
