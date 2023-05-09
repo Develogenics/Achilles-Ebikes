@@ -22,6 +22,10 @@ The navigation bar was created using bootsrap, it contains links to three intern
 
 The website was designed with mobile first usage in mind. For the gallery media quires was used, for navigation and all other divs/sections etc bootstrap was used. Whene in mobile view, all items stack on top of each other and the navigation shrinks down into a hamburger menu, once clicked the nav bar desk top items now come into view stacked on top of each other.
 
+<img src="images/desk-responsive.png">
+
+<img src="images/mobile-responsive.png">
+
 
 
 
