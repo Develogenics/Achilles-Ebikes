@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital@1&family=League+Gothic&display=swap');
+
+body{
+    font-family: 'Amaranth', 'sans-serif';
+    color: #00FFFF;
+    background-color: #002349;
+    background-image: url(../images/light.jpg);
+	opacity: 0.85;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#nav a:hover{
+    border-bottom: 1px solid #FF595A;
+}
+
+.active{
+    border-bottom: 1px solid #FF595A;
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+/* Style inputs, select elements and textareas */
+input[type=text], select, textarea{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+
+.heading {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+
+.container-gall .heading{
+  width: 50%;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.container-gall .heading h3{
+	
+  font-size: 3em;
+  font-weight: bolder;
+
+}
+
+.container-gall .heading h3 {
+  font-weight: 100;
+}
+.container-gall .box{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+
+.container-gall .box .dream{
+  display: flex;
+  flex-direction: column;
+  width: 32.5%;
+  padding-top: 10px;
+}
+
+.container-gal .box .dream img{
+  width: 100%;
+  padding-bottom: 0px;
+  border-radius: 5px;
+}
+
+.container-gall .btn{
+  margin: 40px 0 70px 0;
+  background: #222;
+  padding: 15px 40px ;
+  border-radius: 5px;
+}
+
+.container-gall .btn a{
+ color: #fff;
+ font-size: 1.2em;
+ text-decoration: none;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+
+@media only screen and (max-width: 769px){
+    .container-gall .box{
+   flex-direction: column;
+  }
+
+.container-gall .box .dream{
+  width: 100%;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 643px){
+.container-gall .heading{
+  width: 100%;
+}
+.container-gall .heading h3{
+  font-size: 1em;
+
+}
+
+
+
+
+
+}
+/* Floating radio column*/
+.col-mid {
+	float: left;
+	width:100%;
+	margin-top: 6px;
+}
+
+/* Floating column for labels: 25% width */
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+/* Floating column for inputs: 75% width */
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
