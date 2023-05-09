@@ -10,7 +10,8 @@ E-Achilles website is for those who are thinking about purchasing an alectric bi
 <h2 align="center">Navigation</h2>
 
 The navigation bar was created using bootsrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
-(images/navbar-desk.jpg)
+
+<img src="images/navbar-desk.jpg">
 
 <img src="images/navbar-mobile.jpg">
 
