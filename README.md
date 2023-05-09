@@ -1,5 +1,7 @@
 <h1 align="center">Achilles Ebikes</h1>
 
+<a href="https://develogenics.github.io/Achilles-Ebikes/" rel="nofollow">View site here</a>
+
 ![AChilles logo logo](images/mockup.jpg)
 
 Welcome USER_NAME,
