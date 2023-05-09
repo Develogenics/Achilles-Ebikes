@@ -3,9 +3,12 @@
 <a href="https://develogenics.github.io/Achilles-Ebikes/" rel="nofollow">View site here</a>
 
 ![AChilles logo logo](images/mockup.jpg)
+
 <h2 align="center">User Experience</h2>
 
 E-Achilles website is for those who are thinking about purchasing an alectric bike, but do not know where to start. The site show various types of ebikes and informs the viewer what they are used for and if they are suitable for what the buyer requires. It shows the basics of 3 types of bikes on the index page, has various bikes and components on the gallery page, has a contact form so viewers can recieve teh latest ebike news and ask for any advice in regards to any future purchases once subscribed. It also has external links in the navigation bar and under bike styles on the index page for information on various bikes in the three categories covered. The site offers easy navigation and is reponsive in any resolution on any device, the site was designed mobile first.
+
+<h2 align="center">Design</h2>
 
 <h2 align="center">Navigation</h2>
 
@@ -14,5 +17,11 @@ The navigation bar was created using bootsrap, it contains links to three intern
 <img src="images/navbar-desk.jpg">
 
 <img src="images/navbar-mobile.jpg">
+
+<h2 align="center">Responsive Design</h2>
+
+The website was designed with mobile first usage in mind. For the gallery media quires was used, for navigation and all other divs/sections etc bootstrap was used. Whene in mobile view, all items stack on top of each other and the navigation shrinks down into a hamburger menu, once clicked the nav bar desk top items now come into view stacked on top of each other.
+
+
 
 
