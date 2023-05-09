@@ -1,6 +1,6 @@
 <h1 align="center">Achilles Ebikes</h1>
 
-![AChilles logo logo](images/logo.png)
+![AChilles logo logo](images/mockup.jpg)
 
 Welcome USER_NAME,
 
