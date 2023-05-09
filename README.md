@@ -4,6 +4,8 @@
 
 ![AChilles logo logo](images/mockup.jpg)
 
+E-Achilles website is for those who are thinking about purchasing an alectric bike, but do not know where to start. The site show various types of ebikes informs the viewer what they are used for and if they are suitable for what the buyer needs it for. It shows the basics of 3 types of bikes on the index page, has various bikes and components on the gallery page, has a contact form so viewers can recieve teh latest ebike news and ask for any advice in regards to any future purchases once subscribed. It also has external links in the navigation bar and under bike styles on the index page for information on various bikes in the three categories covered. The site offers easy navigation and is reposive in any resolution/device and was designed mobile first.
+
 Welcome USER_NAME,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
