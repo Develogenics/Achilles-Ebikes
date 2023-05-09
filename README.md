@@ -1,4 +1,4 @@
-# Heading1 Achilles Ebikes
+#Achilles Ebikes
 
 ![AChilles logo logo](images/logo.png)
 
