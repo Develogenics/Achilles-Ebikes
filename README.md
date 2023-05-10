@@ -38,7 +38,7 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 The index page puts across what the site is about. The page contains 3 styles of bikes with images and links to extrnal sites, it contains quotes with images and a video linking to youtube.
 
-<img src="images/index.html">
+<img src="images/index.png">
   
 <h3>Gallery</h3>
   
