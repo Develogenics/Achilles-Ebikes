@@ -34,6 +34,22 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 <h2 align="center">Navigation</h2>
 
+<h2 align="center">Page contents/h2>
+  
+<h3>Index</h3>
+
+The index page puts across what the site is about. The page contains 3 styles of bikes with images and links to extrnal sites, it contains quotes with images and a video linking to youtube.
+  
+<h3>Gallery</h3>
+  
+The gallery contains images of various bikes and components there is a back to top button at the bottom to return to the top quickly.
+  
+<h3>Contact</h3>
+
+The contact page has multiple required fields including radio buttons, the button links to code institute.
+  
+<h2 align="center">Navigation/h2>
+  
 The navigation bar was created using bootsrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
 
 <img src="images/navbar-desk.jpg">
