@@ -54,7 +54,7 @@ The contact page has multiple required fields including radio buttons, the butto
   
 <h2 align="center">Navigation</h2>
   
-The navigation bar was created using bootsrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
+The navigation bar was created using bootstrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
 
 <img src="images/navbar-desk.jpg">
 
