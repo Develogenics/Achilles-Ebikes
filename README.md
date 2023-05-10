@@ -4,15 +4,15 @@
 
 ![AChilles logo logo](images/mockup.jpg)
 
-<h2 align="center">WHat the site is about and the user experience offered</h2>
+<h2 align="center">What the site is about and the user experience offered</h2>
 
-E-Achilles website is for those who are thinking about purchasing an alectric bike, but do not know where to start. The site show various types of ebikes and informs the viewer what they are used for and if they are suitable for what the buyer requires. It shows the basics of 3 types of bikes on the index page, has various bikes and components on the gallery page, has a contact form so viewers can recieve the latest ebike news and ask for any advice in regards to any future purchases once subscribed. It also has external links in the navigation bar and under bike styles on the index page for information on various bikes in the three categories covered. The site offers easy navigation and is reponsive in any resolution on any device, the site was designed mobile first.
+E-Achilles website is for those who are thinking about purchasing an alectric bike, but do not know where to start. The site show various types of ebikes and informs the viewer what they are used for and if they are suitable for what the buyer requires. It shows the basics of 3 types of bikes on the index page, has various bikes and components on the gallery page, has a contact form so viewers can recieve the latest ebike news and ask for any advice in regards to any future purchases once subscribed. It also has external links in the navigation bar and under bike styles on the index page for information on various bikes in the three categories covered. The site offers easy navigation and is responsive in any resolution on any device, the site was designed mobile first.
 
 <h2 align="center">Design</h2>
 
 Wireframes was designed using windows paint, it shows the different page layouts, how they will change with a mobile view, how the nav bar changes with a mobile view and how images stack in a mobile view.
 
-<h3>Desk top view</h3>
+<h3>Desktop view</h3>
 
 <img src="images/desk-wire.png">
 
@@ -37,14 +37,20 @@ Wireframes was designed using windows paint, it shows the different page layouts
 <h3>Index</h3>
 
 The index page puts across what the site is about. The page contains 3 styles of bikes with images and links to extrnal sites, it contains quotes with images and a video linking to youtube.
+
+<img src="images/index.html">
   
 <h3>Gallery</h3>
   
 The gallery contains images of various bikes and components there is a back to top button at the bottom to return to the top quickly.
+
+<img src="images/gallery.png">
   
 <h3>Contact</h3>
 
 The contact page has multiple required fields including radio buttons, the button links to code institute.
+
+<img src="images/form.png">
   
 <h2 align="center">Navigation</h2>
   
@@ -116,7 +122,11 @@ css
 
 html bootstrap
 
-<h2 align="center">Languages used</h2>
+<h2 align="center">Credit</h2>
+
+All code was learned from the code institute modules, stack overflow and w3cschools.
+
+Written by John McGowan: full stack web developer student at code institute 
   
 
 
