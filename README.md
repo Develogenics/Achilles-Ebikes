@@ -62,7 +62,7 @@ The navigation bar was created using bootsrap, it contains links to three intern
 
 <h2 align="center">Responsive Design</h2>
 
-The website was designed with mobile first usage in mind. For the gallery media quires was used, for navigation and all other divs/sections etc bootstrap was used. Whene in mobile view, all items stack on top of each other and the navigation shrinks down into a hamburger menu, once clicked the nav bar desk top items now come into view stacked on top of each other.
+The website was designed with mobile first usage in mind. For the gallery media queries was used, for navigation and all other divs/sections etc bootstrap was used. When in mobile view all items stack on top of each other and the navigation shrinks down into a hamburger menu, once clicked the nav bar desk top items now come into view stacked on top of each other.
 
 <img src="images/desk-responsive.png">
 
@@ -82,7 +82,7 @@ Images were taken from random google searches from random sites for various type
 
 <h2 align="center">Color scheme</h2>
 
-The site uses consistent dark and light backgrounds for containers and fonts. It was kept simple in this project as the bootstrap standard light and dark contrast pass the contrast checker. the colors used in contrast for the main text and text backgrounds were bootstrap dark # 161C2D and bootstrap light # F1F4F8 in places the scheme was reversed like in the navbar. The site also had a background behind all text that was in jumbotron containers using boostrap, teh color used for this was #002349 
+The site uses consistent dark and light backgrounds for containers and fonts. It was kept simple in this project as the bootstrap standard light and dark contrast pass the contrast checker. the colors used in contrast for the main text and text backgrounds were bootstrap dark #161C2D and bootstrap light #F1F4F8 in places the scheme was reversed like in the navbar. The site also had a background behind all text that was in jumbotron containers using boostrap, the color used for this was #002349 
 
 <h2 align="center">Validation</h2>
 
@@ -100,14 +100,14 @@ Fixed all errors for the css and html files and passed the validators, the contr
   
 <h2 align="center">Frameworks libraries and software used</h2>
 
-Photoshop was used to create teh site logo and edit images to the resolution required.
+Photoshop was used to create the site logo and edit images to the resolution required.
 Bootstrap was used to create most of the content and to make it repsonsive along with a hamburger menu in mobile view.
-Fontawsome was used for icons.
+Fontawesome was used for icons.
 Github was used to store all files for the site.
 Codeanywhere was used to commit the code.
 Google Chrome Developer Tools were used for debugging and testing responsiveness.
 Google Fonts was used to import the fonts used.
-Notepad++ was used to creat the code.
+Notepad++ was used to create the code.
 Mspaint was used to create the wireframes.
   
 <h2 align="center">Version control</h2>
