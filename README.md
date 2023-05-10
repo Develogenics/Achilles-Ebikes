@@ -34,7 +34,7 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 <h2 align="center">Navigation</h2>
 
-<h2 align="center">Page contents/h2>
+<h2 align="center">Page contents</h2>
   
 <h3>Index</h3>
 
