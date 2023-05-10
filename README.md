@@ -92,18 +92,21 @@ Fixed all errors for the css and html files and passed the validators, the contr
   
 <img src="images/css-checked.jpg">
   
-<h2 align="center">Software used</h2>
+<h2 align="center">Frameworks libraries and software used</h2>
 
-notepad++
-
-photoshop
-
-mspaint
+Photoshop was used to create teh site logo and edit images to the resolution required.
+Bootstrap was used to create most of the content and to make it repsonsive along with a hamburger menu in mobile view.
+Fontawsome was used for icons.
+Github was used to store all files for the site.
+Codeanywhere was used to commit the code.
+Google Chrome Developer Tools were used for debugging and testing responsiveness.
+Google Fonts was used to import the fonts used.
+Notepad++ was used to creat the code.
+Mspaint was used to create the wireframes.
   
 <h2 align="center">Version control</h2>
 
 Code anywhere was used to commit the files and folders to github. https://github.com/Develogenics/Achilles-Ebikes
-
 
 <h2 align="center">Languages used</h2>
 
