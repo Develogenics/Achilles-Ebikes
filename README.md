@@ -48,7 +48,7 @@ The gallery contains images of various bikes and components there is a back to t
 
 The contact page has multiple required fields including radio buttons, the button links to code institute.
   
-<h2 align="center">Navigation/h2>
+<h2 align="center">Navigation</h2>
   
 The navigation bar was created using bootsrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
 
