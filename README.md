@@ -84,13 +84,13 @@ The site uses consistent dark and light backgrounds for containers and fonts. It
 
 Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also.
 
-<img src="images/contrast.png">
+<img src="images/contrast.jpg">
   
 <img src="images/index-checked.jpg">
   
 <img src="images/gallery-checked.jpg">
   
-<img src="images/contrast-checked.jpg">
+<img src="images/contact-checked.jpg">
   
 <img src="images/css-checked.jpg">
   
