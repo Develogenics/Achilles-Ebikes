@@ -94,7 +94,17 @@ Fixed all errors for the css and html files and passed the validators, the contr
   
 <img src="images/css-checked.jpg">
   
-<h2 align="center">Typography</h2>
+<h2 align="center">Software used</h2>
+
+notepad++
+photoshop
+mspaint
+  
+<h2 align="center">Version controld</h2>
+
+Code anywhere was used to commit the files and folders to github. https://github.com/Develogenics/Achilles-Ebikes
+  
+
 
 
 
