@@ -80,11 +80,19 @@ Images were taken from random google searches from random sites for various type
 
 The site uses consistent dark and light backgrounds for containers and fonts. It was kept simple in this project as the bootstrap standard light and dark contrast pass the contrast checker. the colors used in contrast for the main text and text backgrounds were bootstrap dark # 161C2D and bootstrap light # F1F4F8 in places the scheme was reversed like in the navbar. The site also had a background behind all text that was in jumbotron containers using boostrap, teh color used for this was #002349 
 
-<h2 align="center">Background image</h2>
+<h2 align="center">Validation</h2>
 
+Fixed all errors for the css and html files and passed the validators, the contrast was checked and passed also.
 
+<img src="images/contrast.png">
   
-<img src="images/mobile-responsive.png">
+<img src="images/index-checked.jpg">
+  
+<img src="images/gallery-checked.jpg">
+  
+<img src="images/contrast-checked.jpg">
+  
+<img src="images/css-checked.jpg">
   
 <h2 align="center">Typography</h2>
 
