@@ -14,23 +14,23 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 <h3>Desk top view</h3>
 
-<img src="images/desk-wire.jpg">
+<img src="images/desk-wire.png">
 
 <h3>Gallery view</h3>
 
-<img src="images/gallery-wire.jpg">
+<img src="images/gallery-wire.png">
 
 <h3>Form view</h3>
 
-<img src="images/form-wire.jpg">
+<img src="images/form-wire.png">
 
 <h3>Mobile view</h3>
 
-<img src="images/mobile-wire.jpg">
+<img src="images/mobile-wire.png">
 
 <h3>Mobile menu view</h3>
 
-<img src="images/mobile-menu-wire.jpg">
+<img src="images/mobile-menu-wire.png">
 
 <h2 align="center">Navigation</h2>
 
