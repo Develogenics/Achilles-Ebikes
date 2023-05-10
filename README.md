@@ -32,8 +32,6 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 <img src="images/mobile-menu-wire.png">
 
-<h2 align="center">Navigation</h2>
-
 <h2 align="center">Page contents</h2>
   
 <h3>Index</h3>
@@ -97,7 +95,9 @@ Fixed all errors for the css and html files and passed the validators, the contr
 <h2 align="center">Software used</h2>
 
 notepad++
+
 photoshop
+
 mspaint
   
 <h2 align="center">Version controld</h2>
