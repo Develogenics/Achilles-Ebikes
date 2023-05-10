@@ -30,7 +30,7 @@ Wireframes was designed using windows paint, it shows the different page layouts
 
 <h3>Mobile menu view</h3>
 
-<img src="images/mobile menu-wire.png.png">
+<img src="images/mobile-menu-wire.png.png">
 
 <h2 align="center">Navigation</h2>
 
