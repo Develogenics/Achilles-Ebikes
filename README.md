@@ -10,6 +10,28 @@ E-Achilles website is for those who are thinking about purchasing an alectric bi
 
 <h2 align="center">Design</h2>
 
+Wireframes was designed using windows paint, it shows the different page layouts, how they will change with a mobile view, how the nav bar changes with a mobile view and how images stack in a mobile view.
+
+<h3>Desk top view</h3>
+
+<img src="images/desk-wire.jpg">
+
+<h3>Gallery view</h3>
+
+<img src="images/gallery-wire.jpg">
+
+<h3>Form view</h3>
+
+<img src="images/form-wire.jpg">
+
+<h3>Mobile view</h3>
+
+<img src="images/mobile-wire.jpg">
+
+<h3>Mobile menu view</h3>
+
+<img src="images/mobile-menu-wire.jpg">
+
 <h2 align="center">Navigation</h2>
 
 The navigation bar was created using bootsrap, it contains links to three internal links, a drop down menu with 3 external links, a logo, and a hamburger menu when viewed on mobile devices.
