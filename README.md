@@ -63,7 +63,30 @@ The website was designed with mobile first usage in mind. For the gallery media 
 <img src="images/desk-responsive.png">
 
 <img src="images/mobile-responsive.png">
+  
+<h2 align="center">Typography</h2>
 
+The site use font-family 'Amaranth' and 'sans-serif' and is consitent across all pages.
+  
+<h2 align="center">Icons</h2>
+  
+The website uses icons for social media links in the footer, the quotes and on the form page.
+
+<h2 align="center">Images</h2>
+  
+Images were taken from random google searches from random sites for various types of bikes, they were resized and cropped uisng photoshop.
+
+<h2 align="center">Color scheme</h2>
+
+The site uses consistent dark and light backgrounds for containers and fonts. It was kept simple in this project as the bootstrap standard light and dark contrast pass the contrast checker. the colors used in contrast for the main text and text backgrounds were bootstrap dark # 161C2D and bootstrap light # F1F4F8 in places the scheme was reversed like in the navbar. The site also had a background behind all text that was in jumbotron containers using boostrap, teh color used for this was #002349 
+
+<h2 align="center">Background image</h2>
+
+
+  
+<img src="images/mobile-responsive.png">
+  
+<h2 align="center">Typography</h2>
 
 
 
