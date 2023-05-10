@@ -4,7 +4,7 @@
 
 ![AChilles logo logo](images/mockup.jpg)
 
-<h2 align="center">ABout and user Experience</h2>
+<h2 align="center">WHat the site is about and the user experience offered</h2>
 
 E-Achilles website is for those who are thinking about purchasing an alectric bike, but do not know where to start. The site show various types of ebikes and informs the viewer what they are used for and if they are suitable for what the buyer requires. It shows the basics of 3 types of bikes on the index page, has various bikes and components on the gallery page, has a contact form so viewers can recieve the latest ebike news and ask for any advice in regards to any future purchases once subscribed. It also has external links in the navigation bar and under bike styles on the index page for information on various bikes in the three categories covered. The site offers easy navigation and is reponsive in any resolution on any device, the site was designed mobile first.
 
@@ -100,9 +100,20 @@ photoshop
 
 mspaint
   
-<h2 align="center">Version controld</h2>
+<h2 align="center">Version control</h2>
 
 Code anywhere was used to commit the files and folders to github. https://github.com/Develogenics/Achilles-Ebikes
+
+
+<h2 align="center">Languages used</h2>
+
+html
+
+css
+
+html bootstrap
+
+<h2 align="center">Languages used</h2>
   
 
 
